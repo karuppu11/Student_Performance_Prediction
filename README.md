@@ -68,3 +68,19 @@ This system empowers non-technical users (like teachers or school admins) to:
 - Predict future performance without needing coding or ML experience
 - Make data-informed decisions to provide support where it matters most
 
+
+
+![Flow diagram](https://github.com/user-attachments/assets/6ad1a037-bbbe-4470-a2f0-c2d16db6051c)
+
+
+![Model Diagram](https://github.com/user-attachments/assets/aadd2960-4324-44f0-a86e-3c94a51aea46)
+
+
+
+
+
+
+
+
+
+
